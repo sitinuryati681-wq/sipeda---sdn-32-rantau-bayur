@@ -1,0 +1,6 @@
+{
+  "name": "SIPEDA - SDN 32 Rantau Bayur",
+  "description": "Sistem Informasi Pelaporan Pembelajaran Daring SDN 32 Rantau Bayur oleh Siti Nuryati, S.Pd., Gr.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
